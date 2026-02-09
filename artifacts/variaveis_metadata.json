@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "usandoVariaveis",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2. Tipos de variaveis.sol": "variaveis"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2. Tipos de variaveis.sol": {
+			"keccak256": "0xd17454f1e07f669cb0b6773af837becd7afd3d78a4faf7b219cc3754f84dcad6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9c5899db87d087d5dc8dc50e0e5b792c00fb1673141726cf2378fe419c60b007",
+				"dweb:/ipfs/QmPWoTf28uxbRerv8jFvHpnzh1SovAxEx4tryAjV88wTKa"
+			]
+		}
+	},
+	"version": 1
+}
